@@ -10,3 +10,8 @@ if 'spider man' in superheroes:
 quiz_score = 97
 if quiz_score >= 85:
     print('You got a B or better on your grade.')
+#Task 3
+quote = 'Great power comes great respesoniblity.'
+if quote.startswitch(M):
+    print('Your quote starts with a capital M')
+#Task 4
